@@ -1,6 +1,3 @@
-5-free_dog.c CODE
-
-
 #include <stdlib.h>
 	#include "dog.h"
 
